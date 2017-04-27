@@ -4,7 +4,7 @@ HiFlow3-based elasticity simulation.
 
 Main author: Nicolai Schoch (mailto:nicolai.schoch@iwr.uni-heidelberg.de)
 
-Contributors: ...
+Contributors: Fabian Kißler (mailto:...); ...
 
 If you want to use HiFlow3 and this HiFlow3-based elasticity Simulation source code, please cite the following papers:
 
