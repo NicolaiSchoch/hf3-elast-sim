@@ -1,0 +1,17 @@
+<Param>
+ <BCData>
+  
+  <FixedConstraintsBCs>
+    <NumberOfFixedDirichletPoints>6</NumberOfFixedDirichletPoints>
+    <fDPoints>0.12192148545813833,0.0696342051015455,1.0;0.8704576295050415,0.14181164556431713,1.0;0.6398691452019722,0.3826832774573882,1.0;0.22821859928502108,0.5343230386957889,1.0;0.8852913076622104,0.8067319844447791,1.0;0.11629614690291767,0.8982332222517411,1.0</fDPoints>
+    <fDisplacements>0.0,0.0,0.0;0.0,0.0,0.0;0.0,0.0,0.0;0.0,0.0,0.0;0.0,0.0,0.0;0.0,0.0,0.0</fDisplacements>
+  </FixedConstraintsBCs>
+    
+  <DisplacementConstraintsBCs>
+    <NumberOfDisplacedDirichletPoints>4</NumberOfDisplacedDirichletPoints>
+    <dDPoints>0.1,0.1,0.0;0.9,0.1,0.0;0.9,0.9,0.0;0.1,0.9,0.0</dDPoints>
+    <dDisplacements>0.3,-0.3,-0.2;0.3,0.3,-0.2;-0.3,0.3,-0.2;-0.3,-0.3,-0.2</dDisplacements>
+  </DisplacementConstraintsBCs>
+    
+ </BCData>
+</Param>
